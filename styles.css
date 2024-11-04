@@ -9,8 +9,9 @@ h1 {
 
 .container-fluid {
   max-width: 800px;
-  margin: 60px 200px;
+  margin: 75px auto;
   background-color: white;
+  padding: 30px;
 }
 
 body {
