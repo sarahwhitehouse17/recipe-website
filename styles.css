@@ -1,0 +1,26 @@
+:root {
+  --bs-primary: #b55f48;
+  --bs-secondary: black;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.container-fluid {
+  max-width: 800px;
+  margin: 60px 200px;
+  background-color: white;
+}
+
+body {
+  background-color: pink;
+}
+
+body {
+  background-color: blue;
+}
+h1 {
+  text-decoration: none;
+  color: var(--bs-primary);
+}
