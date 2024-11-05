@@ -7,7 +7,7 @@ h1 {
   text-decoration: underline;
 }
 
-.container-fluid {
+.container {
   max-width: 800px;
   margin: 75px auto;
   background-color: white;
